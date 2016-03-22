@@ -13,3 +13,12 @@ h1 {
   padding-top: 8px;
   padding-bottom: 8px;
 }
+
+.selected {
+  color: red;
+}
+
+.filter {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
